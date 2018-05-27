@@ -1,0 +1,16 @@
+{
+  "name": "my-oop-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-loader": "^4.3.0",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
